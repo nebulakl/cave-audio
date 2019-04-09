@@ -1,7 +1,7 @@
 # cave-internal-audio
 Getting audio to work on ASUS Chromebook C302CA
 
-This guide assumes you are using up-to-date Archlinux booted **via USB boot** `ctrl+U` instead of legacy boot `ctrl+L`
+This guide assumes you are using up-to-date Archlinux
 
 ## To get audio working (with pulseaudio)
 1. [Download this repo](https://github.com/nebulakl/cave-internal-audio/archive/master.zip) and extract the files
