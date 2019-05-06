@@ -1,3 +1,9 @@
+**Update**
+
+Broken as of kernel 5.0.10. Old kernel seems to be fine.
+
+---
+
 # cave-internal-audio
 Getting audio to work on ASUS Chromebook C302CA
 
