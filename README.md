@@ -25,7 +25,7 @@ This guide assumes you are using up-to-date ArchLinux
 
 3. Copy `Google-Cave-1.0-Cave` to `/usr/share/alsa/ucm/`
    ```bash
-   sudo mv Google-Cave-1.0-Cave /usr/share/alsa/ucm/
+   sudo cp -r Google-Cave-1.0-Cave /usr/share/alsa/ucm/
    ```
 
 4. Create a symbolic link for `Google-Cave-1.0-Cave` folder.
