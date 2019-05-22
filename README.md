@@ -38,7 +38,7 @@ This guide assumes you are using up-to-date ArchLinux
    blacklist snd_hda_intel
    ```
 
-6. Follow the steps on the following pages to reduce popping sound
+6. The following steps may reduce popping sound (YMMV)
    
    https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Glitches,_skips_or_crackling
    https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Pops_when_starting_and_stopping_playback
