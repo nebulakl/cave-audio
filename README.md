@@ -2,6 +2,8 @@
 
 This guide assumes you are using up-to-date ArchLinux
 
+Note: on kernel >= `5.4.arch1-1`, module `snd-soc-skl` needs to be manually built by setting `CONFIG_SND_SOC_INTEL_SKYLAKE=m` to get audio working.
+
 ## Preparation
 1. On an **up-to-date** ChromeOS, open the terminal and copy the firmware files to somewhere convenient to use. e.g.
    ```bash
